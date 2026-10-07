@@ -1,10 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&family=Ms+Madi&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Schoolbell&display=swap");
+
 body {
     background-color: rgb(116, 9, 9);
-
+    font-family: "Quantico";
+    font-size: 200%;
+   
  }
 
  h1 {
-   
-    text-align: center;
-    
+   animation-name: CambioColor; 
  }
+
+ h1:hover { 
+    color: rgb(175, 232, 62);
+ }
+
+ .título {
+  position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.posición {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ .img {
+    
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+

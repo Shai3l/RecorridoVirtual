@@ -1,4 +1,67 @@
-body {
-    background-color: rgb(2, 2, 2);
+@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&family=Ms+Madi&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Schoolbell&display=swap");
 
+body {
+
+ background-color: rgb(12, 12, 12);
+ font-family: "Quantico";
+ font-weight: 400;
+ font-style: normal;
+ 
+ p {
+   animation-name: CambioColor; 
  }
+
+ p:hover { 
+    color: rgb(229, 244, 25);
+ }
+
+.texto {
+  font-size: 30px;
+  color: white;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+ .advertencia {
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.gif {
+    
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+.boton-mal {
+  font-size: 20px;
+  position: absolute;
+  right: 25%;
+  top: 90%;
+  transform: translate(-50%, -50%);v
+
+}
+
+.boton-bien {
+  font-size: 20px;
+  position: absolute;
+  right: 60%;
+  top: 90%;
+  transform: translate(-50%, -50%);v
+
+}
