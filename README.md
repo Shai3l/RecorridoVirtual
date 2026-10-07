@@ -1,27 +1,27 @@
 # RecorridoVirtual
 Un juego estilo laberinto donde te moverás por los espacios para encontrar un libro.
 ## Primeras impresiones
-Me parece un ejercicio interesante.
+- Me parece un ejercicio interesante.
 # Primera idea 
-Quisiera hacer que el puntero fuera una figura.
+- Quisiera hacer que el puntero fuera una figura.
 ## Edición idea
-No encontré una manera de cambiar el estilo del cursor. Por lo mismo, descarto la idea.
+- No encontré una manera de cambiar el estilo del cursor. Por lo mismo, descarto la idea.
 ## Sentimiento
-Frustración.
+- Frustración.
 
 # Nueva idea
-Quisiera hacer un juego estilo laberinto donde el objetivo sea llegar al html adecuado donde se esocnde un libro. 
+- Quisiera hacer un juego estilo laberinto donde el objetivo sea llegar al html adecuado donde se esocnde un libro
 
 #  Lluvia de ideas
 ## Concepto
-Un mundo donde leer está prohibido. Al jugador se le instruye encontrar un libro para llevarlo a su resistencia. 
+- Un mundo donde leer está prohibido. Al jugador se le instruye encontrar un libro para llevarlo a su resistencia
 ## Concepto y funcionamiento de los html 
-- Habrán htmls "equivocados" que indicarán que no es el camino indicado y que el jugador debe huir. Quiero incluir sonidos. 
-- Aparecerá un texto a modo de aviso, el color del background será rojo y empezará a sonar una alarma molesta. 
+- Habrán htmls "equivocados" que indicarán que no es el camino indicado y que el jugador debe huir. Quiero incluir sonidos
+- Aparecerá un texto a modo de aviso, el color del background será rojo y empezará a sonar una alarma molesta 
 - Habrán htmls "correctos"  que indicarán que está en el camino correcto con un texto
-- El color del background será verde y empezará a sonar un sonido tipo notificación. 
+- El color del background será verde y empezará a sonar un sonido tipo notificación
 ## Sentimientos
-Emocionada y optimista
+- Emocionada y optimista
 
 # CAMBIOS EN EL CAMINO 1
 
@@ -34,9 +34,9 @@ Emocionada y optimista
 
 - Escogí una fuente en google fonts para que se viera más estilo técnologico 
 
-- En Escenario1, puse el sonido de un juego que me gusta -fuego y agua- como easteregg. 
+- En Escenario1, puse el sonido de un juego que me gusta -fuego y agua- como easteregg 
 
-- Añadí animaciones para cambiar el color de unos textos cuando pasa el cursor para resaltarlos. 
+- Añadí animaciones para cambiar el color de unos textos cuando pasa el cursor para resaltarlos
 
 - Ajuste como pude la posición de los textos y del botón de los espacios (me demore un montón)
 
@@ -48,7 +48,7 @@ Emocionada y optimista
 
 ## Html 
 
--Creé al final 8 espacios. 
+- Creé al final 8 espacios. 
 - Seguí con el plan, y añadí texto y música por espacio (dependiendo de si era correcto o incorrecto)
 
 - Hice el código base dependiendo de si era correcto o incorrecto y después lo adpate a cada caso
@@ -57,7 +57,7 @@ Emocionada y optimista
 
 ## CSS
 
-- tuve que ajustar las dimensiones igualmente para que se acomodara bien. Igualmente, conservé el código del comienzo.
+- Tuve que ajustar las dimensiones igualmente para que se acomodara bien. Igualmente, conservé el código del comienzo.
 
 ## sentimiento 
 
@@ -67,17 +67,17 @@ Emocionada y optimista
 
 ## Carpetas
 
-Tenía todo desordenado (CAOS) pero no había podido ordenarlas :/porque me fallaba el código cuando las ponía por carpetas. Busqué y ya entendí que me faltaba especificar la locazión mejor. Ya por fin quedó medio organizado. 
+- Tenía todo desordenado (CAOS) pero no había podido ordenarlas :/ porque me fallaba el código cuando las ponía por carpetas. Busqué y ya entendí que me faltaba especificar la locazión mejor. Ya por fin quedó medio organizado. 
 
 # CAMBIOS EN EL CAMINO 4
 
 ## Html
 
-Edité los textos de los espcios incorrectos y correctos porque antes todos eran prácticamente el mismo o no había puesto bien lo que era. Ahora en los seis cambia el contenido y tiene más sentido. 
+- Edité los textos de los espcios incorrectos y correctos porque antes todos eran prácticamente el mismo o no había puesto bien lo que era. Ahora en los seis cambia el contenido y tiene más sentido. 
 
 ## CSS
 
--Volví a ajustar la posición de los textos, gifs porque borré cosas y habían quedado mal. También porque cambie el texto y se descuadraron las dimensiones 
+- Volví a ajustar la posición de los textos, gifs porque borré cosas y habían quedado mal. También porque cambie el texto y se descuadraron las dimensiones 
 
 # ADICIONES
 
@@ -87,9 +87,9 @@ Edité los textos de los espcios incorrectos y correctos porque antes todos eran
 
 # CAMBIOS EN EL CAMINO 5
 
-## readme
+## Readme
  
- Estaba bien desordenado, entonces lo cambie. Le añadí más detalles. 
+ - Estaba bien desordenado, entonces lo cambie. Le añadí más detalles. 
 
 
 # Comentarios finales
