@@ -1,3 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&family=Ms+Madi&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Schoolbell&display=swap");
+
+body {
+    background-color: rgb(116, 9, 9);
+    font-family: "Quantico";
+    font-size: 100%;
+   
+ }
+
 body {
     background-color: rgb(4, 234, 62);
 }

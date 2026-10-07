@@ -6,6 +6,7 @@ body {
 
 
 .texto {
+  font-weight: 700;
   font-size: 200px;
   color: white;
   position: absolute;

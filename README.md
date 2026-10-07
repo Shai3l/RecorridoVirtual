@@ -2,30 +2,30 @@
 
 # Primeras impresiones
 Me parece un ejercicio interesante.
-## Primera idea 
+- Primera idea 
 Quisiera hacer que el puntero fuera una figura.
-## Edición idea
+- Edición idea
 No encontré una manera de cambiar el estilo del cursor. Por lo mismo, descarto la idea.
-## Sentimiento
+- Sentimiento
 Frustración.
 
 # Nueva idea
-Tomando inspiracion del libro "The Handmaid's Tale", quisiera hacer un juego estilo laberinto donde el objetivo sea llegar al html adecuado. 
+Quisiera hacer un juego estilo laberinto donde el objetivo sea llegar al html adecuado donde se esocnde un libro. 
 
 #  LLuvia de ideas
-## Concepto
-Un mundo donde leer está prohibido -al estilo Handmaid's Tale- Al jugador se le instruye encontrar un libro para llevarlo a su resistencia. 
-### Concepto y funcionamiento de los html 
-#### Html -camino equivocado Contenido
-Habrán htmls que indicarán que no es el camino indicado y que el jugador puede ser descubierto. 
-##### estilo
-Aparecerá un texto a modo de aviso, el color del background titilará de rojo y empezará a sonar una alarma molesta. 
-#### Html - camino correcto
-##### Contenido 
-Indicara que va por el camino correcto con un texti
-##### Estilo 
-El color del background titilará de verde y empezará a sonar un sonido de arpa. 
-### Sentimientos
+- Concepto
+Un mundo donde leer está prohibido. Al jugador se le instruye encontrar un libro para llevarlo a su resistencia. 
+- Concepto y funcionamiento de los html 
+- Html -camino equivocado Contenido
+Habrán htmls que indicarán que no es el camino indicado y que el jugador debe huir. Quiero incluir sonidos. 
+- Estilo
+Aparecerá un texto a modo de aviso, el color del background será rojo y empezará a sonar una alarma molesta. 
+- Html - camino correcto
+- Contenido 
+Indicará que va por el camino correcto con un texto
+- Estilo 
+El color del background será verde y empezará a sonar un sonido tipo notificación. 
+# Sentimientos
 Emocionada y optimista
 
 

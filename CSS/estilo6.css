@@ -5,7 +5,9 @@ body {
 
  
 .texto {
-  font-size: 200px;
+  
+  text-align: center;
+  font-size: 150px;
   color: white;
   position: absolute;
     top: 50%;
