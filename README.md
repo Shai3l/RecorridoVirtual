@@ -1,12 +1,12 @@
 # RecorridoVirtual
 
-# Primeras impresiones
+## Primeras impresiones
 Me parece un ejercicio interesante.
-- Primera idea 
+## Primera idea 
 Quisiera hacer que el puntero fuera una figura.
-- Edición idea
+## Edición idea
 No encontré una manera de cambiar el estilo del cursor. Por lo mismo, descarto la idea.
-- Sentimiento
+## Sentimiento
 Frustración.
 
 # Nueva idea
