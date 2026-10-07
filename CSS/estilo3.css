@@ -19,15 +19,15 @@ body {
   position: absolute;
   right: 25%;
   top: 90%;
-  transform: translate(-50%, -50%);v
-
+  transform: translate(-50%, -50%);
 }
+
 
 .boton-bien {
-  font-size: 20px;
-  position: absolute;
-  right: 60%;
-  top: 90%;
-  transform: translate(-50%, -50%);v
-
+    font-size: 20px;
+    position: absolute;
+    right: 60%;
+    top: 90%;
+    transform: translate(-50%, -50%);
 }
+

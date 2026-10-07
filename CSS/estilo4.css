@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(4, 234, 62);
+}
+
+.texto {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.boton-bien {
+    font-size: 20px;
+    position: absolute;
+    right: 25%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+}
+
+.boton-mal {
+    font-size: 20px;
+    position: absolute;
+    right: 60%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+}

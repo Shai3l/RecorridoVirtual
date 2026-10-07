@@ -13,3 +13,12 @@ body {
   max-width: 700px;
   margin: 0 auto;
 }
+
+
+.boton-final {
+  font-size: 20px;
+  position: absolute;
+  right: 40%;
+  top: 70%;
+  transform: translate(-50%, -50%);
+}
