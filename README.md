@@ -16,15 +16,10 @@ Quisiera hacer un juego estilo laberinto donde el objetivo sea llegar al html ad
 ## Concepto
 Un mundo donde leer está prohibido. Al jugador se le instruye encontrar un libro para llevarlo a su resistencia. 
 ## Concepto y funcionamiento de los html 
-- Html/camino equivocado  <big> Contenido</big>
-Habrán htmls que indicarán que no es el camino indicado y que el jugador debe huir. Quiero incluir sonidos. 
-- Estilo
-Aparecerá un texto a modo de aviso, el color del background será rojo y empezará a sonar una alarma molesta. 
-- Html - camino correcto
-- Contenido 
-Indicará que va por el camino correcto con un texto
-- Estilo 
-El color del background será verde y empezará a sonar un sonido tipo notificación. 
+- Habrán htmls "equivocados" que indicarán que no es el camino indicado y que el jugador debe huir. Quiero incluir sonidos. 
+- Aparecerá un texto a modo de aviso, el color del background será rojo y empezará a sonar una alarma molesta. 
+- Habrán htmls "correctos"  que indicarán que está en el camino correcto con un texto
+- El color del background será verde y empezará a sonar un sonido tipo notificación. 
 # Sentimientos
 Emocionada y optimista
 
